@@ -2,7 +2,7 @@
 
 I'm Önder from Turkey, and i work as an network engineer at Türk Telekom. I'd like to improve my programming skills. Currently i'm working on Kotlin projects.
 
-Skills: Python/ Kotlin
+Skills: Python, Flutter
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Flutter 
