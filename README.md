@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Network Engineer](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png)
+![Network Engineer]
 
 I'm Önder from Turkey, and i work as an network engineer at Türk Telekom. I'd like to improve my programming skills. Currently i'm working on Kotlin projects.
 
