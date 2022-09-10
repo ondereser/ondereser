@@ -1,5 +1,4 @@
-### Hi there 👋,
-### Önder ESER
+### Hi there 👋
 
 ![Network Engineer](https://raw.githubusercontent.com/johanneslo1/johanneslo1/master/welcome_banner.png)
 
