@@ -4,8 +4,8 @@ I'm Önder from Turkey, and i work as an network engineer at Türk Telekom. I'd 
 
 Skills: Python/ Kotlin
 
-- 🔭 I’m currently working on Kotlin 
-- 🌱 I’m currently learning Kotlin 
+- 🔭 I’m currently working on Flutter 
+- 🌱 I’m currently learning Flutter 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ondereser&show_icons=true)  
