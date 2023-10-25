@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Önder from Turkey, and i work as an network engineer at Türk Telekom. I'd like to improve my programming skills. Currently i'm working on C projects.
 
-Skills: Python, C
 
 - 🔭 I’m currently working on C 
 - 🌱 I’m currently learning C 
